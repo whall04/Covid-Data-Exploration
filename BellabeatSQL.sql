@@ -1,3 +1,5 @@
+								-- Bellabeat Case Study --
+
 --Preview activity dataset
 SELECT TOP 10 *
 FROM Bellabeat..baseDailyActivity
